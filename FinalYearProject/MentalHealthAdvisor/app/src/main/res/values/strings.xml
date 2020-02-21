@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Mental Health Advisor</string>
+    <string name="textViewText">Mental Health Problems</string>
+    <string name="buttonText">Bipolar Disorder</string>
+    <string name="textViewText2">Bipolar Disorder</string>
+    <string name="buttonText2">Back</string>
+
+    <string name="button3">Show</string>
+    <string name="checkerButton">Check Self</string>
+    <string name="hideBipolar">Back</string>
+    <string name="panicAttack">Panic Attacks</string>
+    <string name="depressionButton">Depression</string>
+    <string name="copingButton">Ways To Cope</string>
+    <string name="testView">Self Checker</string>
+
+    <string name="CheckerSubmitBtn">Submit</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+
+    </string>
+    <string name="homePageTitle">Home Page</string>
+    <string name="homeBtnOne">Mental Health Conditions</string>
+    <string name="homeBtnTwo">Self-Checker Quiz</string>
+    <string name="homeBtnThree">Find Locations</string>
+    <string name="title_activity_find_location">Map</string>
+    <string name="splashText">Mental Health Advisor</string>
+    <string name="homePageSummary">Welcome to Mental Health Advisor. It is the hope of this app that you find any help or support you may need. There a several functions of this app. You need to take a quiz created by a user of our Doctor app? Click the Self-Checker Quiz button
+    Find the location of the nearest medical centre in your area? Click the button labeled Find Locations. Or if you just need basic starting off information on a mental health condition, then you can check if we have that information by clicking the button called Mental Health Conditions</string>
+    <string name="emailHint">Email Address</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="registerBtn">Register</string>
+    <string name="linkToLogin">Already registered? Click here to login.</string>
+    <string name="loginBtn">Login</string>
+    <string name="linkToRegister">Not registered? See here.</string>
+</resources>
